@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/ahmedthabet569/react-gh/static/js/main.b0e1430e.chunk.js",
+    "main.js.map": "/ahmedthabet569/react-gh/static/js/main.b0e1430e.chunk.js.map",
+    "runtime-main.js": "/ahmedthabet569/react-gh/static/js/runtime-main.8c7b6bb2.js",
+    "runtime-main.js.map": "/ahmedthabet569/react-gh/static/js/runtime-main.8c7b6bb2.js.map",
+    "static/css/2.2a44d42e.chunk.css": "/ahmedthabet569/react-gh/static/css/2.2a44d42e.chunk.css",
+    "static/js/2.5cd0f57e.chunk.js": "/ahmedthabet569/react-gh/static/js/2.5cd0f57e.chunk.js",
+    "static/js/2.5cd0f57e.chunk.js.map": "/ahmedthabet569/react-gh/static/js/2.5cd0f57e.chunk.js.map",
+    "index.html": "/ahmedthabet569/react-gh/index.html",
+    "static/css/2.2a44d42e.chunk.css.map": "/ahmedthabet569/react-gh/static/css/2.2a44d42e.chunk.css.map",
+    "static/js/2.5cd0f57e.chunk.js.LICENSE.txt": "/ahmedthabet569/react-gh/static/js/2.5cd0f57e.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/ahmedthabet569/react-gh/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c7b6bb2.js",
+    "static/css/2.2a44d42e.chunk.css",
+    "static/js/2.5cd0f57e.chunk.js",
+    "static/js/main.b0e1430e.chunk.js"
+  ]
+}
